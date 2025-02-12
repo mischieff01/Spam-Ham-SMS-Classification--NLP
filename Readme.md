@@ -4,18 +4,17 @@ This repository focuses on classifying SMS messages as either spam or ham (non-s
 
 ## 📜 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Models and Text Embeddings](#models-and-text-embeddings)
-  - [Random Forest with BoW](#random-forest-with-bow)
-  - [Random Forest with TF-IDF](#random-forest-with-tfidf)
-  - [Random Forest with Word2Vec](#random-forest-with-word2vec)
-  - [Recurrent Neural Network (RNN)](#recurrent-neural-network-rnn)
-  - [Long Short-Term Memory (LSTM-RNN)](#long-short-term-memory-lstm-rnn)
-- [Model Comparison](#model-comparison)
-- [Conclusion](#conclusion)
-- [References](#references)
+- [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+- [Preprocessing](https://www.geeksforgeeks.org/text-preprocessing-for-nlp-tasks/)
+- [Models]
+  - [Random Forest with BoW](https://github.com/mischieff01/Spam-Ham-SMS-Classification--NLP/blob/main/bow.ipynb)
+  - [Random Forest with TF-IDF](https://github.com/mischieff01/Spam-Ham-SMS-Classification--NLP/blob/main/tfidf.ipynb)
+  - [Random Forest with Word2Vec](https://github.com/mischieff01/Spam-Ham-SMS-Classification--NLP/blob/main/Word2Vec.ipynb)
+  - [Recurrent Neural Network (RNN)](https://github.com/mischieff01/Spam-Ham-SMS-Classification--NLP/blob/main/RNN.ipynb)
+  - [Long Short-Term Memory (LSTM-RNN)](https://github.com/mischieff01/Spam-Ham-SMS-Classification--NLP/blob/main/LstmRNN.ipynb)
+- [Model Comparison]
+- [Conclusion]
+- [References]
 
 ## 🔍 Introduction
 
